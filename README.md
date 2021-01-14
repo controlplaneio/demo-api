@@ -1,5 +1,5 @@
-# Token README.
+# Demo Api
 
-Head to http://localhost:9000 to view the app in the browser.
+## Dockerfile Exercise
 
-You can customise the message printed by setting the environment variable `MESSAGE`. 
+Used to demonstrate best practices when using a `Dockerfile`
